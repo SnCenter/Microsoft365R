@@ -44,7 +44,7 @@
 #' [Microsoft Graph overview](https://learn.microsoft.com/en-us/graph/overview),
 #' [Microsoft Teams API reference](https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0)
 #'
-#' @examples
+#' @examplesp
 #' \dontrun{
 #'
 #' myteam <- get_team("my team")

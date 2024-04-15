@@ -1,0 +1,6 @@
+{
+    "gitlens.blame.toggleMode": "window",
+    "gitlens.blame.format": "${message|50?} ${agoOrDate|14-}",
+    "gitlens.currentLine.format": "${author, }${agoOrDate}${' via 'pullRequest}${ • message|50?}",
+    "gitlens.graph.dateFormat": null
+}
